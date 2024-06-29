@@ -41,9 +41,7 @@ services:
     ports:
       - 8888:8888
     volumes:
-      - ./hue/apps:/usr/share/hue/apps
-      - ./hue/desktop:/usr/share/hue/desktop
-      - ./hue/desktop/conf/z-hue.ini:/usr/share/hue/desktop/conf/z-hue.ini
+      - ./conf/hue/z-hue.ini:/usr/share/hue/desktop/conf/z-hue.ini
     restart: unless-stopped
     networks:
       hue-hive: null

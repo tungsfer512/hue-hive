@@ -1,2 +1,0 @@
-/*! For license information please see desktop_core_src_desktop_js_reactComponents_FallbackComponent_jsx-bundle-5dde5373ae992b61.js.LICENSE.txt */
-"use strict";(self.webpackChunkgethue=self.webpackChunkgethue||[]).push([["desktop_core_src_desktop_js_reactComponents_FallbackComponent_jsx"],{"./desktop/core/src/desktop/js/reactComponents/FallbackComponent.jsx":(e,t,o)=>{o.r(t),o.d(t,{default:()=>s});var n=o("./node_modules/react/index.js");const s=function(){return n.createElement("div",null,"Placeholder component")}}}]);
