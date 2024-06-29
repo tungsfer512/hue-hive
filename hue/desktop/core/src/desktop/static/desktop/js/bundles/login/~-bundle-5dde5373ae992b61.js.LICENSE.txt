@@ -1,0 +1,187 @@
+/*!
+ * 
+ * Licensed to Cloudera, Inc. under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  Cloudera, Inc. licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+/*! !!../../../../../../../../../node_modules/css-loader/dist/cjs.js!../../../../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./Breadcrumb.scss */
+
+/*! !!../../../../../../../../../node_modules/css-loader/dist/cjs.js!../../../../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./DropdownMenuItem.scss */
+
+/*! !!../../../../../../../../node_modules/css-loader/dist/cjs.js!../../../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./OverflowingItem.scss */
+
+/*! !!../../../../../../../../node_modules/css-loader/dist/cjs.js!../../../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./PathBrowser.scss */
+
+/*! !!../../../../../../../node_modules/css-loader/dist/cjs.js!../../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./ReactExampleGlobal.scss */
+
+/*! !../../../../../../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../../../../../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../../../../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! ../../../../../../../../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../../../../../../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../../../../../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../../components/icons/AdlsIcon */
+
+/*! ../../../components/icons/HdfsIcon */
+
+/*! ../../../components/icons/S3Icon */
+
+/*! ../../api/utils */
+
+/*! ../../utils/hueAnalytics */
+
+/*! ../../utils/i18nReact */
+
+/*! ../OverflowingItem */
+
+/*! ../utils/huePubSub */
+
+/*! ./Breadcrumb.scss */
+
+/*! ./Breadcrumb/Breadcrumb */
+
+/*! ./DropdownMenuItem.scss */
+
+/*! ./DropdownMenuItem/DropdownMenuItem */
+
+/*! ./OverflowTooltip */
+
+/*! ./OverflowingItem.scss */
+
+/*! ./PathBrowser.scss */
+
+/*! ./ReactExampleGlobal.scss */
+
+/*! ./types */
+
+/*! antd */
+
+/*! i18next */
+
+/*! i18next-http-backend */
+
+/*! react */
+
+/*! react-i18next */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*!***************************************************!*\
+  !*** ./desktop/core/src/desktop/js/utils/i18n.js ***!
+  \***************************************************/
+
+/*!********************************************************!*\
+  !*** ./desktop/core/src/desktop/js/utils/i18nReact.ts ***!
+  \********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./desktop/core/src/desktop/js/utils/timing/noop.ts ***!
+  \**********************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/components/icons/S3Icon.tsx ***!
+  \*****************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/components/icons/AdlsIcon.tsx ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/components/icons/HdfsIcon.tsx ***!
+  \*******************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/useHuePubSub.ts ***!
+  \*********************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/api.ts ***!
+  \************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/types.ts ***!
+  \**************************************************************************/
+
+/*!*********************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/PathBrowser.tsx ***!
+  \*********************************************************************************************/
+
+/*!**********************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/PathBrowser.scss ***!
+  \**********************************************************************************************/
+
+/*!***********************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/ReactExampleGlobal/ReactExampleGlobal.tsx ***!
+  \***********************************************************************************************/
+
+/*!************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/ReactExampleGlobal/ReactExampleGlobal.scss ***!
+  \************************************************************************************************/
+
+/*!*************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/OverflowTooltip.tsx ***!
+  \*************************************************************************************************/
+
+/*!*************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/OverflowingItem.tsx ***!
+  \*************************************************************************************************/
+
+/*!**************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/OverflowingItem.scss ***!
+  \**************************************************************************************************/
+
+/*!*******************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/Breadcrumb/Breadcrumb.tsx ***!
+  \*******************************************************************************************************/
+
+/*!********************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/Breadcrumb/Breadcrumb.scss ***!
+  \********************************************************************************************************/
+
+/*!*******************************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/DropdownMenuItem/DropdownMenuItem.tsx ***!
+  \*******************************************************************************************************************/
+
+/*!********************************************************************************************************************!*\
+  !*** ./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/DropdownMenuItem/DropdownMenuItem.scss ***!
+  \********************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/PathBrowser.scss ***!
+  \***************************************************************************************************************************************************************************************************/
+
+/*!*****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./desktop/core/src/desktop/js/reactComponents/ReactExampleGlobal/ReactExampleGlobal.scss ***!
+  \*****************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/OverflowingItem.scss ***!
+  \*******************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/Breadcrumb/Breadcrumb.scss ***!
+  \*************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./desktop/core/src/desktop/js/reactComponents/FileChooser/PathBrowser/DropdownMenuItem/DropdownMenuItem.scss ***!
+  \*************************************************************************************************************************************************************************************************************************/
